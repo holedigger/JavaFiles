@@ -1,0 +1,13 @@
+<SettingsRoot>
+    <Setting>
+        <NFLDataFile>D:\Dropbox\COP2800\JavaFinal\NFLGames-Version1.6\data\Input.xml</NFLDataFile>
+        <NFLDataFileTemp>D:\Dropbox\COP2800\JavaFinal\NFLGames-Version1.6\data\Temp.html</NFLDataFileTemp>
+        <NFLScoreURL>https://www.msn.com/en-us/Sports/nfl/schedule</NFLScoreURL>
+        <APIKey>RsBZrHDjFblMt3UPf2E2o5Hmx</APIKey>
+        <APISecretKey>i8ckxjDZKlKjurgzWR60QjoQysPg81D753G367Pdx7n2BQhklj</APISecretKey>
+        <AccessToken>1334266530012553225-cYE2P3hcAiieoVVo5dlJIoE2w7HhDB</AccessToken>
+        <AccessSecretToken>F51TceXHcic5yGkMokORdqA6ZkoVRIU1czDZD7lLpHoad</AccessSecretToken>
+        <BearerToken>AAAAAAAAAAAAAAAAAAAAAL2%2BKQEAAAAA1TiBCsdecWqDThQq5OeoKeM0LX0%3DHBdlw4RWQlhACbAvOtCzpxkqUVOTxK3zwo4Ud7OZJmMB0gFMWT</BearerToken>
+        <TwitterUpdateTeam>Houston Texans</TwitterUpdateTeam>
+    </Setting>
+</SettingsRoot>
